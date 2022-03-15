@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sammie-the-data-scientist
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning a course in data science
-- 💞️ I’m looking to collaborate on with my fellow students around and also with any potential employer on the field of data science,Thank you!
+- 👋 Hi, I’m Samuel 
+- 👀 I am an upcoming data scientist
+- 🌱 I am currently working on mastering machine learning concepts
+- 💞️ I’m looking forward to collaborate on with my fellow everyone, Thank you!
 - 📫 How to reach me ...You can reach me at samuelndiritu265@gmail.com
 
 <!---
